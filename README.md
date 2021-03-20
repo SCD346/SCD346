@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... React
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... steve@stephencdoherty.com
+- 📫 How to reach me: ... steve@stephencdoherty.com 
 -->
