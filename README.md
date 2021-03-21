@@ -7,4 +7,4 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... StephenCDoherty@Gmail.com
 - 🌐 [Personal Portfolio Website](https://www.stephencdoherty.com/)
-- 📑 [Resume] (https://gist.github.com/SCD346/3ba1c95f6081bf4de464340bd360729b)
+- 📑 [Resume](https://gist.github.com/SCD346/3ba1c95f6081bf4de464340bd360729b)
