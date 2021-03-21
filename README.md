@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on ... React
 - 🤔 I’m looking for help with ... MERN Stack
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... steve@stephencdoherty.com
+- 📫 How to reach me: ... StephenCDoherty@Gmail.com
