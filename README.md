@@ -2,7 +2,7 @@
 
 - 🔭  I’m currently working on ... React
 - 🌱  I’m currently learning ... React and more JavaScript
-- 👯  I’m looking to collaborate on ... React
+- 👯  I’m looking to collaborate on ... Open Source
 - 🤔  I’m looking for help with ... MERN Stack
 - 💬  Ask me about ... Anything
 - 📫  How to reach me: ... StephenCDoherty@Gmail.com
