@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on ... React
-- 🌱  I’m currently learning ... React and more JavaScript
+- 🔭  I’m currently working on ... a React App
+- 🌱  I’m currently learning ... Elixir and Phoenix
 - 👯  I’m looking to collaborate on ... Open Source
-- 🤔  I’m looking for help with ... MERN Stack
+- 🤔  I’m looking for help with ... Finding Open Source projects to contribute to.
 - 💬  Ask me about ... Anything
 - 📫  How to reach me: ... StephenCDoherty@Gmail.com
 - 🌐  [Personal Portfolio Website](https://www.stephencdoherty.com/)
