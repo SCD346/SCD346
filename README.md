@@ -10,5 +10,5 @@
 - 📑  [Resume](https://gist.github.com/SCD346/3ba1c95f6081bf4de464340bd360729b)
 
 
-<img align="right" alt="GIF" height="50%" width="50%" src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif" />
+<img align="right" alt="GIF" height="20%" width="20%" src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif" />
 
