@@ -1,4 +1,8 @@
+
 ### Hi there 👋                                                                                                   
+
+<img align="left" alt="GIF" height="30%" width="30%" src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif" />
+
 
 - 🔭  I’m currently working on ... a React App  
 - 🌱  I’m currently learning ... Elixir and Phoenix
@@ -10,5 +14,4 @@
 - 📑  [Resume](https://gist.github.com/SCD346/3ba1c95f6081bf4de464340bd360729b)
 
 
-<img align="right-top" alt="GIF" height="20%" width="20%" src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif" />
 
