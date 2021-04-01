@@ -9,5 +9,6 @@
 - 🌐  [Personal Portfolio Website](https://www.stephencdoherty.com/)
 - 📑  [Resume](https://gist.github.com/SCD346/3ba1c95f6081bf4de464340bd360729b)
 
-![ ](https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif)
+
+<img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif" />
 
