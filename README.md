@@ -11,14 +11,3 @@
 
 ![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.datadriveninvestor.com%2Fthe-most-hilarious-code-comments-ever-bae3cb1030b5&psig=AOvVaw0CK9xDRec7z4WO0kYFBFmq&ust=1617324573932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDD7dzp2-8CFQAAAAAdAAAAABAs)
 
-
-
-<table border="0">
- <tr>
- 
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
