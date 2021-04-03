@@ -56,7 +56,3 @@ Hi there, I'm **Steve Doherty**! I'm a **Software Developer** working on project
 <br />
 
 ![Steve's github stats](https://github-readme-stats.vercel.app/api?username=SCD346&show_icons=true&hide_border=true)
-
-![Steve's github stats](https://github-readme-stats.vercel.app/api?username=SCD346&show_icons=true&hide_border=true)
-
-
