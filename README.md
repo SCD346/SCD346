@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Steve Doherty, I'm a Developer
 
 <a href="https://www.linkedin.com/in/stephencdoherty/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://i.stack.imgur.com/gVE0j.png" />
 </a>
 
 <br />
