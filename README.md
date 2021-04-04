@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi there, I'm **Steve Doherty**! I'm a **Software Developer** working on projects using Javascript, HTML and CSS. I've built a few full-stack applications that you can find in my [Personal Portfolio](https://www.stephencdoherty.com/) in my portfolio. I recenlty started digging into Phoenix and Elixir. I also have a Business Analyst and Product Owner background, you can read about that in my [resume.](https://gist.github.com/SCD346/3ba1c95f6081bf4de464340bd360729b)
+I'm usually working on projects utilizing Javascript, HTML and CSS. I've built a few full-stack applications that you can find in my [Personal Portfolio](https://www.stephencdoherty.com/) in my portfolio. I recenlty started digging into Phoenix and Elixir. I also have a Business Analyst and Product Owner background, you can read about that in my [resume.](https://gist.github.com/SCD346/3ba1c95f6081bf4de464340bd360729b)
 
   <img align="right" alt="GIF" height="46%" width="38%" src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif" />
 
