@@ -15,7 +15,7 @@ I also have a Business Analyst and Product Owner background, you can read about 
 - 🔭 I’m currently working on ... an app utilizing Elixir and Phoenix
 - 🌱 I’m currently learning ... Elixir and Phoenix
 - 👯 I’m looking to collaborate on ... Open Source
-- 🤔 I’m looking for help with ... Finding Open Source projects to contribute to.
+- 🤔 I’m looking for help with ... Finding open source projects
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... StephenCDoherty@Gmail.com
 - 🌐 [Personal Portfolio](https://www.stephencdoherty.com/)
