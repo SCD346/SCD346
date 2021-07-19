@@ -1,5 +1,7 @@
 ### Hey 👋, I'm Steve Doherty, I'm a Developer
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                                        
+
 <a href="https://www.linkedin.com/in/stephencdoherty/">
   <img align="left" alt="LinkedIn" width="22px" src="https://i.stack.imgur.com/gVE0j.png" />
 </a>
