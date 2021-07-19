@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Steve Doherty, I'm a Developer
 
-### Vistors:
+## Vistors:
 
 ![Visitor Count](https://profile-counter.glitch.me/scd346/count.svg)
                 
