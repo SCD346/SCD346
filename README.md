@@ -3,7 +3,8 @@
 ## Vistors:
 
 ![Visitor Count](https://profile-counter.glitch.me/scd346/count.svg)
-                
+
+<br />          
 
 <a href="https://www.linkedin.com/in/stephencdoherty/">
   <img align="left" alt="LinkedIn" width="22px" src="https://i.stack.imgur.com/gVE0j.png" />
@@ -11,7 +12,7 @@
 
 <br />
 
-<a href="https://www.codewars.com/users/SCD346/badges/large">
+<a href="https://www.codewars.com/users/SCD346">
   <img align="left" alt="Codewars" src="https://www.codewars.com/users/SCD346/badges/large" />
 </a>
 
