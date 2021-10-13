@@ -10,6 +10,10 @@
 </a>
 
 <br />
+<a href="https://www.codewars.com/users/SCD346/badges/large">
+  <img align="left" alt="LinkedIn" width="22px" src="https://i.stack.imgur.com/gVE0j.png" />
+</a>
+
 <br />
 
 I'm usually working on projects utilizing Javascript, HTML and CSS. I've built some full-stack apps using these technologies alongside some popular frameworks that you can find in my [Personal Portfolio](https://www.stephencdoherty.com/). I recently started digging into Phoenix and Elixir. 
