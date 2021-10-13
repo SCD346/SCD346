@@ -11,7 +11,7 @@
 
 <br />
 <a href="https://www.codewars.com/users/SCD346/badges/large">
-  <img align="left" alt="LinkedIn" width="22px" src="https://i.stack.imgur.com/gVE0j.png" />
+  <img align="left" alt="Codewars" width="22px" src="https://www.codewars.com/users/SCD346/badges/large" />
 </a>
 
 <br />
