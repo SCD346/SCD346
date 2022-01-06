@@ -24,8 +24,8 @@ I also have a Business Analyst and Product Owner background, you can read about 
 
   <img align="right" alt="GIF" height="46%" width="38%" src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif" />
 
-- 🔭 I’m currently working on ... an app utilizing Elixir and Phoenix
-- 🌱 I’m currently learning ... Elixir and Phoenix
+- 🔭 I’m currently working on ... JavaScript and Js Frameworks
+- 🌱 I’m currently learning ... .NET Core and C#
 - 👯 I’m looking to collaborate on ... Open Source
 - 🤔 I’m looking for help with ... Finding open source projects
 - 💬 Ask me about ... Anything
