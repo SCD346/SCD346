@@ -66,4 +66,4 @@ I also have a Business Analyst and Product Owner background, you can read about 
 <br /><br />
 <br />
 
-![Steve's github stats](https://github-readme-stats.vercel.app/api?username=SCD346&show_icons=true&hide_border=true)
+
