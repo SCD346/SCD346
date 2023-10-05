@@ -13,8 +13,8 @@
 <br />
 
 
-<br />I'm usually working on projects utilizing Javascript, HTML and CSS. I've built some full-stack apps using these technologies alongside some popular frameworks that you can find in my [Personal Portfolio](https://www.stephencdoherty.com/). I recently started digging into Phoenix and Elixir. 
-I also have a Business Analyst and Product Owner background, you can read about that in my [resume.](https://gist.github.com/SCD346/3ba1c95f6081bf4de464340bd360729b)
+<br />I'm usually working on projects utilizing Javascript, HTML and CSS. I've built some full-stack apps using these technologies alongside some popular frameworks that you can find in my [Personal Portfolio](https://www.stephencdoherty.com/). 
+I also have a Business Analyst and Product Owner background and a few years of consulting experience all within the tech space.
 
 - 🔭 I’m currently working on ... JavaScript and Js Frameworks
 - 🌱 I’m currently learning ... .NET Core and C#
