@@ -23,7 +23,6 @@ I also have a Business Analyst and Product Owner background and a few years of c
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... StephenCDoherty@Gmail.com
 - 🌐 [Personal Portfolio](https://www.stephencdoherty.com/)
-- 📑 [Resume](https://gist.github.com/SCD346/3ba1c95f6081bf4de464340bd360729b)
 
 <br>
 <br>
