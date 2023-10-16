@@ -17,7 +17,7 @@
 I also have a Business Analyst and Product Owner background and a few years of consulting experience all within the tech space.
 
 - 🔭 I’m currently working on ... JavaScript and Js Frameworks
-- 🌱 I’m currently learning ... .NET Core and C#
+- 🌱 I’m currently learning ... Typescript
 - 👯 I’m looking to collaborate on ... Open Source
 - 🤔 I’m looking for help with ... Finding open source projects
 - 💬 Ask me about ... Anything
